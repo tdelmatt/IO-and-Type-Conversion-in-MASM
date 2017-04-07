@@ -1,5 +1,4 @@
 ;Taylor Del Matto
-;delmattt@onid.oregonstate.edu
 ;CS 271-400
 ;Program #5A
 ;8/10/2015
